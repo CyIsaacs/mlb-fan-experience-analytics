@@ -73,5 +73,3 @@ Washington Nationals
 From our results we can target some of the teams to show what factors cause the overall 9/9/9 rankings. First is the New York Yankees, this team has a lot of star players and keeps the prices low to be able to rank first place. On the other hand the LA Dodgers have a lot of talented players but choose to have really expensive hot dogs and beers. Teams like the Atlanta Braves, Detroit Tigers, and the Arizona Diamondbacks have two-three exciting players while having good price items. Lastly, teams that don’t perform well and don’t have stars have either make up with the 9/9/9 index by making their beer and hot dogs super cheap, in this case, the Miami Marlins,  or they still continue with high price items the Washington Nationals which makes them the worst team to participate in this challenge for. 
 
 
-
-Future Improvements
